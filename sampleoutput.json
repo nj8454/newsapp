@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Susan Svrluga, Danielle Douglas-Gabriel",
+            "title": "Harvard sues the Trump administration in escalating confrontation - The Washington Post",
+            "description": "Lawsuit argues that government actions, including freezing $2.2 billion in federal funding, violated the First Amendment and didn’t follow legal procedures.",
+            "url": "https://www.washingtonpost.com/education/2025/04/21/harvard-sues-trump-administration-funding-antisemitism/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MLBWDTF7HKBE24RBAURKB42BSA.jpg&w=1440",
+            "publishedAt": "2025-04-22T18:16:23Z",
+            "content": "Harvard University sued the Trump administration in federal court Monday, the latest move in the escalating feud between the nations wealthiest school and the White House.\r\nThe lawsuit, filed in U.S.… [+13771 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Google Fi is launching a $35 / month unlimited plan - The Verge",
+            "description": "Google Fi is launching a new Unlimited Essentials plan for $35 per month for one line. It’s also adding access to more high-speed data to its existing plans.",
+            "url": "https://www.theverge.com/news/653244/google-fi-unlimited-essentials-plan",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/google-fi-logo.webp?quality=90&strip=all&crop=0%2C10.527397823525%2C100%2C78.945204352951&w=1200",
+            "publishedAt": "2025-04-22T17:00:00Z",
+            "content": "In addition to a new Unlimited Essentials plan, Google Fis existing plans are getting some upgrades, too.\r\nIn addition to a new Unlimited Essentials plan, Google Fis existing plans are getting some u… [+1906 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Susan Haigh, Jake Offenhartz",
+            "title": "Mahmoud Khalil's wife gives birth after ICE denies Columbia activist's plea for temporary release - AP News",
+            "description": "Emails shared with The Associated Press say federal immigration authorities denied Mahmoud Khalil’s request for a temporary release from detention to attend the birth of his first child. Khalil is a Columbia University activist who has been held in a detentio…",
+            "url": "https://apnews.com/article/mahmoud-khalil-columbian-palestinians-detention-wife-birth-1716cc67d55f4001e4972f35dd18749e",
+            "urlToImage": "https://dims.apnews.com/dims4/default/86a5b76/2147483647/strip/true/crop/5760x3240+0+300/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F33%2F1c%2F06cdeaea42ef7918b62fc49e2643%2F7a2bd51c3ac64fa0a00ec4f379d1a65f",
+            "publishedAt": "2025-04-22T16:23:00Z",
+            "content": "NEW YORK (AP) Federal immigration authorities denied Mahmoud Khalils request for a temporary release from detention to attend the birth of his first child, who was born Monday in New York, according … [+2091 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "David J. Lynch",
+            "title": "IMF says Trump’s tariffs will be a drag on global economic growth - The Washington Post",
+            "description": "Trump’s tariffs are forecast to slow the global economy sharply this year, the International Monetary Fund said.",
+            "url": "https://www.washingtonpost.com/climate-environment/2025/04/22/trump-tariffs-imf-global-economy/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EOUL4OTNFY2RHVNPRG6JCJW6EA_size-normalized.jpg&w=1440",
+            "publishedAt": "2025-04-22T14:30:17Z",
+            "content": "The global economy will slow sharply this year, weighed down by President Donald Trumps imposition of the highest import taxes in more than a century and the cloud of uncertainty that has billowed in… [+5126 chars]"
+        }
+    ]
+}
